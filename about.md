@@ -3,18 +3,18 @@ layout: page
 title: Sobre
 ---
 ## Sobre o Autor  
-<br></br>
+<br>
 Pedro Ferreira, 20, é estudante de Engenharia Elétrica na Universidade de Brasília (UnB). Flamenguista em tempo integral, divide seu tempo livre entre futebol, _indie rock_, cinema, computação, matemática e política.
 
 
 ## Sobre o Blog  
-<br></br>
+<br>
 Esse blog é mantido como um projeto pessoal do autor, alimentado por publicações pontuais baseadas em ponderações espontâneas, sem nenhuma periodicidade ou tema unificador.  
 
  O objetivo desse espaço é colocar em evidência os assuntos e as perspectivas abordadas, incentivando reflexão e discussão.  Assim, a interação dos leitores - por meio de comentários, de sugestões de temas para publicações futuras ou até mesmo do envio de _posts_ com novas abordagens - é fortemente incentivada e muito bem vinda. Ressalto que as publicações desse espaço se tratam de **considerações pessoais** sobre alguns eventos, não devendo ser tomadas, de forma alguma, como verdades absolutas.
 
 ## Sobre a "Linha Editorial"  
-<br></br>
+<br>
 Apesar da ausência de um tema unificador, acredito que assuntos como futebol, cinema e televisão, educação e política vão aparecer de forma recorrente por aqui.
 
 Assim, por questões de transparência, aproveito para já esclarecer questionamentos que acredito que aparecerão ao longo das publicações:
