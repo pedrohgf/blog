@@ -1,6 +1,6 @@
 ---
 title: Babel no Flamengo?
-published: false
+published: true
 ---
 ## Ryan Babel no Flamengo
 
