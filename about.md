@@ -4,7 +4,7 @@ title: Sobre
 ---
 ## Sobre o Autor  
 <br>
-Pedro Ferreira, 20, é estudante de Engenharia Elétrica na Universidade de Brasília (UnB). Flamenguista em tempo integral, divide seu tempo livre entre futebol, _indie rock_, cinema, computação, matemática e política.
+Pedro Ferreira, 21, é estudante de Engenharia Elétrica na Universidade de Brasília (UnB). Flamenguista em tempo integral, divide seu tempo livre entre futebol, _indie rock_, cinema, computação, matemática e política.
 
 
 ## Sobre o Blog  
